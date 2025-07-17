@@ -1,5 +1,5 @@
 ### [*] Initializing...
-### [+] Success, welcome to my profile!
+### [+] Success, welcome (back?) to my profile!
 
 I'm malware research and developer 👾
 
